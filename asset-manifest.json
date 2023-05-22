@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nomflex-clone/static/js/main.b047db41.js",
+    "main.js": "/nomflex-clone/static/js/main.c25bebbc.js",
     "index.html": "/nomflex-clone/index.html",
-    "main.b047db41.js.map": "/nomflex-clone/static/js/main.b047db41.js.map"
+    "main.c25bebbc.js.map": "/nomflex-clone/static/js/main.c25bebbc.js.map"
   },
   "entrypoints": [
-    "static/js/main.b047db41.js"
+    "static/js/main.c25bebbc.js"
   ]
 }
